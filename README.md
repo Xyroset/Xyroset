@@ -41,14 +41,6 @@ A highly optimized AI companion that processes text, voice, and images in real-t
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xyroset&theme=radical&hide_border=true" alt="Vlad's GitHub Streak" />
-</p>
-
----
-
 ### 📬 Contact
 - **Telegram:** [@Just_Xirexxx](https://t.me/Just_Xirexxx)
 - **Email:** xyroset+dev@gmail.com
