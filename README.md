@@ -20,13 +20,13 @@ My focus is on creating maintainable systems with clean architecture, ensuring t
 
 ### 💻 Featured Projects
 
-**[Web Telegram Shop (TMA + Crypto)](https://github.com/Xyroset/web-telegram-shop)**  
+**[Web Telegram Shop (TMA + Crypto Payments)](https://github.com/Xyroset/web-telegram-shop)**  
 A production-ready e-commerce backend integrated directly into Telegram Mini Apps.
 - **Architecture:** Strictly decoupled business logic (Use Cases & Repositories) for high maintainability.
 - **Payments:** Engineered secure, asynchronous Webhook handlers for cryptocurrency gateways (NOWPayments, CryptoBot).
 - **Infrastructure:** Fully containerized with Docker, background task processing via Celery/Redis, and automated testing/deployment pipelines.
 
-**[Autonomous Multimodal AI Agent](https://github.com/Xyroset/AI-Digital-Doppelganger)**  
+**[Personal AI Telegram Bot (LLM + Voice + Vision)](https://github.com/Xyroset/AI-Digital-Doppelganger)**  
 A highly optimized AI companion that processes text, voice, and images in real-time.
 - **AI Integration:** Implemented lightning-fast LLM and Vision inference via Groq API, coupled with zero-shot Voice Cloning (Coqui XTTS).
 - **Hardware Optimization:** Profiled and configured the application to run heavy models efficiently on constrained hardware (T4 GPU) using Unsloth.
@@ -44,7 +44,7 @@ A highly optimized AI companion that processes text, voice, and images in real-t
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xyroset&show_icons=true&theme=radical&hide_border=true" alt="Vlad's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xyroset&theme=radical&hide_border=true" alt="Vlad's GitHub Streak" />
 </p>
 
 ---
