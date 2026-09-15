@@ -26,7 +26,7 @@ A production-ready e-commerce backend integrated directly into Telegram Mini App
 - **Payments:** Engineered secure, asynchronous Webhook handlers for cryptocurrency gateways (NOWPayments, CryptoBot).
 - **Infrastructure:** Fully containerized with Docker, background task processing via Celery/Redis, and automated testing/deployment pipelines.
 
-**[Personal AI Telegram Bot (LLM + Voice + Vision)](https://github.com/Xyroset/AI-Digital-Doppelganger)**  
+**[Personal AI Telegram Bot (LLM + Voice + Vision)](https://github.com/Xyroset/ai-digital-doppelganger)**  
 A highly optimized AI companion that processes text, voice, and images in real-time.
 - **AI Integration:** Implemented lightning-fast LLM and Vision inference via Groq API, coupled with zero-shot Voice Cloning (Coqui XTTS).
 - **Hardware Optimization:** Profiled and configured the application to run heavy models efficiently on constrained hardware (T4 GPU) using Unsloth.
